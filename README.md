@@ -18,7 +18,7 @@ This project implements NFA (Non-deterministic Finite Automaton) and DFA (Determ
 - WinBGIm graphics library for visualization. Follow the installation instructions [here](http://winbgim.codecutter.org/) to set up the necessary library.
 
 ## How to Compile and Run
-1. Clone the repository, compile and run the main.cpp file.
+Clone the repository, compile and run the main.cpp file.
 
 
 ## Usage
